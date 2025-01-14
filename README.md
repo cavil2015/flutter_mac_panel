@@ -1,2 +1,3 @@
-# flutter_mac_panel
-flutter_panel
+# flutter_panel
+
+A new Flutter project.
